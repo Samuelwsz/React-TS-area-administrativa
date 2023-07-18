@@ -9,7 +9,7 @@ import useDadosConsulta from "./utils/useDadosConsulta"
 import Avaliação from "./componentes/Avaliacao"
 import Botao from "./componentes/Botao"
 import Subtitulo from "./componentes/Subtitulo"
-import Cabecalho from "./componentes/Cabecalho"
+import Cabecalho from "./componentes/Cabecalho/index"
 
 function App() {
   const { dados: consultas, erro: consultasErro } = useDadosConsulta()
