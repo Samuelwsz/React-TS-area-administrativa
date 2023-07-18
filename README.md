@@ -32,3 +32,8 @@ As técnicas e tecnologias que serão utilizadas neste projeto são:
 - Styled-Components: Biblioteca para estilização de componentes React utilizando CSS-in-JS.
 - MUI: Biblioteca de componentes React para criação de interfaces de usuário modernas e responsivas.
 - Recharts: Biblioteca para criação de gráficos utilizando React.
+
+## Design no Figma
+[Link do figma](https://www.figma.com/file/61CRNXlUmooMttGVa0GvML/React-fullstack---Voll.med?type=design&node-id=246-3606&mode=design&t=WEq5r9remAxfAvzO-0)
+
+## Projeto finalizado
