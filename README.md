@@ -1,9 +1,7 @@
 
-![React com Typescript: desenvolvendo uma área administrativa com MUI, Recharts e Styled Components](https://imgur.com/Qgf3van.png)
-
 # React com Typescript: desenvolvendo uma área administrativa
 
-Este projeto faz parte da escola Front-end e tem como objetivo ensinar a construção de uma página de área administrativa utilizando React com Typescript e as bibliotecas Styled-Components, MUI e Recharts.
+Este projeto faz parte da escola Front-end da Alura teve como objetivo ensinar a construção de uma página de área administrativa utilizando React com Typescript e as bibliotecas Styled-Components, MUI e Recharts.
 
 ## Funcionalidades do projeto
 
@@ -11,6 +9,20 @@ A página de área administrativa terá as seguintes funcionalidades:
 
 - Dashboard: Página principal com tabela, gráficos e informações.
 
+## Iniciando o Projeto
+
+instalar as dependências do projeto
+```
+npm install
+```
+iniciar o servidor de desenvolvimento
+```
+npm run start
+```
+iniciar a API
+```
+npm run api
+```
 ## Técnicas e tecnologias utilizadas
 
 As técnicas e tecnologias que serão utilizadas neste projeto são:

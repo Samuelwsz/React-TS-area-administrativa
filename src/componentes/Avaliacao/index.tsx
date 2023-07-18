@@ -1,6 +1,7 @@
 import styled from "@emotion/styled"
 import IProfissional from "../../types/IProfissional"
 import Card from "./Card"
+import Botao from "../Botao"
 
 const SecaoCard = styled.section`
   display: flex;
@@ -21,6 +22,7 @@ export default function Avaliação({
           return <Card profissional={profissional} />
         })}
       </SecaoCard>
+      <Botao>Ver mais</Botao>
     </>
   )
 }
