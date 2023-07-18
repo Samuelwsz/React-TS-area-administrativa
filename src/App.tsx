@@ -1,16 +1,15 @@
 import "./App.css"
 import Container from "./componentes/Container"
 import Titulo from "./componentes/Titulo"
-import Cabecalho from "./componentes/Cabecalho"
 import Rodape from "./componentes/Rodape"
 import Tabela from "./componentes/Tabela"
 import Grafico from "./componentes/Grafico"
-
 import useDadosProfissional from "./utils/useDadosProfissional"
 import useDadosConsulta from "./utils/useDadosConsulta"
 import Avaliação from "./componentes/Avaliacao"
 import Botao from "./componentes/Botao"
 import Subtitulo from "./componentes/Subtitulo"
+import Cabecalho from "./componentes/Cabecalho"
 
 function App() {
   const { dados: consultas, erro: consultasErro } = useDadosConsulta()

@@ -2,7 +2,7 @@ import { BarChart, ResponsiveContainer, XAxis, YAxis, Bar } from "recharts"
 import IProfissional from "../../types/IProfissional"
 import IConsulta from "../../types/IConsulta"
 import useDadosGraficos from "./useDadosGrafico"
-import { IDados } from "../../utils/IDados"
+import { IDados } from "../../types/IDados"
 import styled from "@emotion/styled"
 
 interface GraficoProps {

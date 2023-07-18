@@ -1,6 +1,6 @@
 import IConsulta from "../../types/IConsulta"
 import IProfissional from "../../types/IProfissional"
-import { IDados } from "../../utils/IDados"
+import { IDados } from "../../types/IDados"
 
 interface useDadosGraficosProps {
   profissionais: IProfissional[] | null
